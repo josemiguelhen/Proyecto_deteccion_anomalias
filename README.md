@@ -28,14 +28,12 @@ Identificar días con ventas atípicas (muy altas o muy bajas) por sucursal, par
 ├── anomalías_detectadas.xlsx     # Exportación de anomalías encontradas
 ├── README.md                     # Documentación del proyecto
 
-
-## 🚀 Cómo ejecutar
+---
+🚀 Cómo ejecutar
 Clona este repositorio:
 
-bash
-Copiar
-Editar
 git clone https://github.com/tu-usuario/deteccion-anomalias-ventas.git
+
 Sube el archivo ventas_diarias.xlsx al entorno de Google Colab o ejecuta localmente con Jupyter.
 
 Ejecuta el notebook paso a paso.
