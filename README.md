@@ -18,6 +18,17 @@ Identificar días con ventas atípicas (muy altas o muy bajas) por sucursal, par
 - Visualización: Series de tiempo con anomalías destacadas
 - Exportación de resultados a Excel
 
+## ✨ Capturas de pantalla
+
+![KPIs](Imagenes_graficos/imagen1.png)
+![KPIs](Imagenes_graficos/imagen2.png)
+![KPIs](Imagenes_graficos/imagen3.png)
+![KPIs](Imagenes_graficos/imagen4.png)
+![KPIs](Imagenes_graficos/imagen5.png)
+![KPIs](Imagenes_graficos/imagen6.png)
+
+
+
 ---
 
 ## 📂 Estructura del Proyecto
